@@ -197,8 +197,8 @@ const Demo = () => {
                 after seeing exactly how the system would integrate with our existing setup."
               </p>
               <div>
-                <div className="font-semibold text-gray-900">Dr. Patricia Chen</div>
-                <div className="text-gray-600">Metro General Hospital</div>
+                <div className="font-semibold text-gray-900">Dr. Jada Francis</div>
+                <div className="text-gray-600">Mukono General Hospital</div>
               </div>
             </div>
             
@@ -213,8 +213,8 @@ const Demo = () => {
                 The interface is intuitive and the real-time data is invaluable."
               </p>
               <div>
-                <div className="font-semibold text-gray-900">Mark Thompson</div>
-                <div className="text-gray-600">Greenfield University</div>
+                <div className="font-semibold text-gray-900">Chelimo </div>
+                <div className="text-gray-600">Uganda Christian University</div>
               </div>
             </div>
             

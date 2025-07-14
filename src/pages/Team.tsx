@@ -5,52 +5,44 @@ import { Linkedin, Mail, Award, Users, Target, Heart } from 'lucide-react';
 const Team = () => {
   const teamMembers = [
     {
-      name: "Dr. Sarah Mitchell",
-      role: "CEO & Founder",
+      name: "Bukenya Ken",
+      role: "Team Lead",
       bio: "Environmental engineer with 15+ years in renewable energy. Led multiple biogas projects across Africa and Europe.",
       image: "/api/placeholder/300/400",
       linkedin: "#",
-      email: "sarah.mitchell@nexusguild.com",
+      email: "bukenya@nexusguild.com",
       specialties: ["Biogas Systems", "Project Management", "Sustainability"]
     },
     {
-      name: "James Chen",
-      role: "CTO & Co-Founder",
-      bio: "Former Tesla engineer specializing in IoT sensors and mobile applications. Expert in renewable energy technology.",
+      name: "Ahebwa Bob",
+      role: "IoT Engineer",
+      bio: " engineer specializing in IoT sensors and mobile applications. Expert in renewable energy technology.",
       image: "/api/placeholder/300/400",
       linkedin: "#",
-      email: "james.chen@nexusguild.com",
+      email: "ahebwa@nexusguild.com",
       specialties: ["IoT Development", "Mobile Apps", "Sensor Technology"]
     },
     {
-      name: "Dr. Amara Okafor",
+      name: "Namaggwa Harriet",
       role: "Head of Research",
-      bio: "PhD in Chemical Engineering. Leading researcher in biogas optimization and advanced monitoring systems.",
+      bio: "Chemical Engineering. Leading researcher in biogas optimization and advanced monitoring systems.",
       image: "/api/placeholder/300/400",
       linkedin: "#",
-      email: "amara.okafor@nexusguild.com",
+      email: "harris@nexusguild.com",
       specialties: ["Research & Development", "Chemical Engineering", "Process Optimization"]
     },
     {
-      name: "Michael Rodriguez",
+      name: "Ssendagire Baker",
       role: "VP of Operations",
       bio: "Operations expert with background in scaling renewable energy solutions across emerging markets.",
       image: "/api/placeholder/300/400",
       linkedin: "#",
-      email: "michael.rodriguez@nexusguild.com",
+      email: "baker@nexusguild.com",
       specialties: ["Operations Management", "Supply Chain", "Market Expansion"]
     },
+   
     {
-      name: "Lisa Thompson",
-      role: "Head of Customer Success",
-      bio: "Customer relationship specialist ensuring seamless deployment and ongoing support for all biogas installations.",
-      image: "/api/placeholder/300/400",
-      linkedin: "#",
-      email: "lisa.thompson@nexusguild.com",
-      specialties: ["Customer Success", "Training", "Technical Support"]
-    },
-    {
-      name: "David Kim",
+      name: "Ssenyonjo Andrew",
       role: "Lead Software Engineer",
       bio: "Full-stack developer focused on creating intuitive mobile and web applications for biogas monitoring.",
       image: "/api/placeholder/300/400",
@@ -108,9 +100,9 @@ const Team = () => {
               </h2>
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
-                  Founded in 2019, Nexus Guild emerged from a shared vision to make biogas 
+                  Founded in 2025, Nexus Guild emerged from a shared vision to make biogas 
                   monitoring more intelligent, accessible, and reliable. Our founders, 
-                  Dr. Sarah Mitchell and James Chen, recognized the potential of combining 
+                  Bukenya Jawadhu and Namaggwa Harriet, recognized the potential of combining 
                   advanced sensor technology with mobile applications.
                 </p>
                 <p>

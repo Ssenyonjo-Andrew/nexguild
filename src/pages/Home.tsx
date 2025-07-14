@@ -76,22 +76,22 @@ const Home = () => {
 
   const testimonials = [
     {
-      name: "Dr. Sarah Johnson",
-      role: "University Administrator",
+      name: "Bukenya Jawadhu",
+      role: "Collegue",
       content: "Nexus Guild's biogas system has reduced our energy costs by 40% while providing valuable learning opportunities for our students.",
-      rating: 5
+      rating: 4
     },
     {
-      name: "Michael Chen",
-      role: "Hospital Director",
+      name: "Ssendagire Abubaker",
+      role: "Collegue",
       content: "The reliability and monitoring capabilities have exceeded our expectations. Essential for our healthcare operations.",
       rating: 5
     },
     {
-      name: "Robert Wilson",
+      name: "Ahebwa Bob",
       role: "Dairy Farmer",
       content: "Converting our farm waste into energy has been game-changing. The mobile app makes monitoring so simple.",
-      rating: 5
+      rating: 3
     }
   ];
 
